@@ -1,29 +1,113 @@
-Faire de la bière maison
-########################
+Faire de la bière maison ou comment transformer l'eau en bière
+##############################################################
 
 :date: 01-05-2013
 :category: cuisine
-:authors: Fredéric Sureau, Alexis Métaireau
+:authors: Frédéric Sureau, Alexis Métaireau
 
-On en boit tout le temps, mais on ne prends pas souvent le temps de comprendre
+On en boit tout le temps, mais on ne prend pas souvent le temps de comprendre
 comment elle est fabriquée, et encore moins de la fabriquer soi même. Et c'est
-bien dommage, parce que fabriquer de la bière soi même n'est pas bien
-compliqué.
+bien dommage, parce que fabriquer de la bière soi-même est à la portée de
+n'importe quel assoiffé ! (s'il est patient)
 
-On à commencé à vouloir brasser notre propre "drogue" il y à de ça un an et
-demi. On est pas des acharnés, ce qui veut dire qu'on à fait 5 brassins au
-total (ça fiat quand même 120 litres au total !), et on arrive à quelque chose
-de pas trop mal, alors on s'est dit que ça ferait un bon article :-)
+Après maintenant un an et demi de brassage amateur (ce qui fait quand même 120L
+!), et un résultat qui tend vers quelque chose de buvable, il est temps pour
+nous de faire le point. Il y a beaucoup d'approches possibles en terme de
+brassage, nous ne retransmettons que notre parcours, ce n'est donc pas à prendre
+en parole d'évangile, bien au contraire, les remarques et échanges avec d'autres
+brasseurs sont les bienvenus !
 
-Cet article tente de resencer les trouvailles qu'on à pu faire depuis qu'on
-s'est lancé dans l'aventure.
+Mais d'abord, pourquoi faire de la bière soi-même ? Il y a plein de bonnes
+raisons en fait, mais en ce qui nous concerne :
+# On aime fabriquer les produits que l'on consomme (et, ça serait mentir que de
+dire qu'on ne consomme pas de bière !)
+# La kro c'est dégueux
+# Pour se la péter devant les copains alcolos
 
-Motivations
+Et il faut des grosses cuves et un alambique ? C'est ça ?
+
+Matériel
+========
+
+Les grandes brasseries utilisent une cuve spéciale pour chaque étape, mais quand
+on est pauvres/débutants et que l'on fait des petites quantités, on peut très
+bien s'en sortir avec très peu de matériel.
+
+Dans notre cas, nous faisons des brassins de 20L ce qui est un bon rapport
+risque/plaisir : si on rate, ce n'est pas si grave, et si elle est bonne il y a
+quand-même de quoi déguster ;)
+
+Pour cette recette, il vous faudra :
+
+L'essentiel :
+
+Une source de chaleur réglable
+    Un trépied à gaz pour les paëlla est parfait, sinon une plaque de cuisson
+    quelconque.
+
+Une cuve de brassage
+    Une grande casserolle/marmite de minimum 30L. 50L c'est plus confort.
+    En inox ou émaillée, mais surtout pas d'aluminium car il ne réagit pas très
+    bien avec la bière paraît-il...
+    Le mieux est de la récupérer chez tatie jacqueline car ça coûte très cher (à
+    partir de 50€ et 150€ facilement selon la qualité)
+    
+Une cuve de fermentation
+    Un seau en plastique avec couvercle hermétique de minimum 30L.
+    Utiliser de préférence du plastique alimentaire, sinon la bière développe un
+    goût de pétrole très caractéristique.
+    On trouve chez les distributeurs spécialisés des cuves de fermentation de
+    30L avec barboteur et robinet pour une dizaine d'euros.
+
+Une touillette
+    Une grande cuillère quoi...
+
+Un thermomètre
+    De cuisine, gradué entre 50°C et 100°C.
+
+Une passoire
+    Très grande si possible
+
+Recommandé fortement :
+
+Un moulin à malt
+    Du genre de ce qu'il y a dans les fermes pour concasser les céréales qu'on
+    donne aux bêtes, ou un moulin à malt spécial (environ 50€ les premiers prix)
+    Si vous n'en avez pas sous la main, il y a les techniques torchon/marteau
+    (long), rouleau à patisserie (fastidieux) ou encore le mixeur (de quoi être
+    radié à vie de l'ordre des brasseurs)
+
+Refroidisseur à moût
+    On peut s'en bricoler un pour pas cher avec des tuyaux de cuivres pour
+    canalisation. Il suffit de le tordre en forme de serpentin et de faire des
+    jolis raccords. Sans cet ustensile, l'étape de refroidissage est longue et
+    risquée pour la qualité de la bière.
+    
+Facultatif (mais quand-même sympa) :
+
+Un densimètre
+    Pour faire des mesures et savoir au bout de combien de pintes on ne peut
+    plus conduire. Accessoirement c'est pratique pour connaître le moment idéal
+    pour la mise en bouteille.
+
+Un tuyau pour siphonner
+    Lors de la mise en bouteille. Prévoir un bon diamètre (environ 1cm) pour ne
+    pas y passer des plombes.
+
+
+Ingrédients
 ===========
 
-La motivation principale, à vrai dire, est surtout de fabriquer les produits
-qu'on consomme. Et, ça serait mentir que de dire qu'on ne consomme pas de
-bière, pour le moins !
+Une bière c'est :
+# De l'eau
+# Du malt
+# Du houblon
+# Des levures
+
+
+
+Processus de fabrication
+========================
 
 Cet article explique comment fabriquer une IPA (Indian Pale Ale, une
 bière un peu plus amère que celle qu'on à l'habitude de trouver en France).
@@ -31,16 +115,6 @@ bière un peu plus amère que celle qu'on à l'habitude de trouver en France).
 Elle est plus amère car elle comporte plus de houblon que les autres, et
 (dans notre cas en tout cas) parce qu'on fait la première fermentation en
 présence de houblon.
-
-Matériel & matières premières
-=============================
-
-XXX De quoi as ton besoin ?
-XXX Ou est-ce qu'on peut récupérer ce dont on à besoin ?
-
-
-Processus de fabrication
-========================
 
 Machine arrière; n'allons pas trop vite: comment est-ce qu'on fait de la bière,
 d'abord ?
