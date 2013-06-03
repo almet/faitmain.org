@@ -19,10 +19,10 @@ brasseurs sont les bienvenus !
 
 Mais d'abord, pourquoi faire de la bière soi-même ? Il y a plein de bonnes
 raisons en fait, mais en ce qui nous concerne :
-# On aime fabriquer les produits que l'on consomme (et, ça serait mentir que de
+1. On aime fabriquer les produits que l'on consomme (et, ça serait mentir que de
 dire qu'on ne consomme pas de bière !)
-# La kro c'est dégueux
-# Pour se la péter devant les copains alcolos
+2. La kro c'est dégueux
+3. Pour se la péter devant les copains alcolos
 
 Et il faut des grosses cuves et un alambique ? C'est ça ?
 
@@ -99,10 +99,10 @@ Ingrédients
 ===========
 
 Une bière c'est :
-# De l'eau
-# Du malt
-# Du houblon
-# Des levures
+1. De l'eau
+2. Du malt
+3. Du houblon
+4. Des levures
 
 
 
