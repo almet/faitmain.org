@@ -24,10 +24,80 @@ dire qu'on ne consomme pas de bière !)
 2. La kro c'est dégueux
 3. Pour se la péter devant les copains alcolos
 
-Et il faut des grosses cuves et un alambique ? C'est ça ?
+
+La bière c'est quoi ?
+=====================
+
+Pour cette recette, il vous faudra :
+1. De l'eau
+2. Du malt
+3. Du houblon
+4. Des levures
+
+Le malt est le nom que l'on donne communément à l'orge maltée. Le processus de
+maltage correspond à la germination de grains d'orge qui sont ensuite sechés ou
+torréfiés pour stopper la germination. Ils sont ensuite débarassés de leurs
+germes et peuvent servir directement pour le brassage de la bière. Ce processus
+de maltage permet d'une part de développer les enzymes nécessaires à la création
+des sucres qui seront ensuite digérés par les levures ; d'autre part, la
+torréfaction plus ou moins forte des grains d'orge va leur conférer une couleur
+et un arôme caractéristque qui permettra grâce à des mélanges, de créer une
+bière blonde, ambrée, brune, rousse, stout, etc. Le malt est donc l'ingrédient
+responsable de la couleur de la bière. C'est également la source de sucres et
+donc le facteur qui déterminera la quantité d'alcool et le corps de la bière.
+
+Le houblon est une plante grimpante qui pousse dans nos régions tempérées. On
+utilise ses fleurs qui se présentent sous la forme de petits cônes pleins de
+résine et fortement odorant. Les fleurs (fraîches, séchées ou broyées en
+granulés) sont ajoutées dans la bière pendant l'ébullition et sont responsables
+de l'amertume de la bière ainsi que des parfums floraux ou d'agrumes. La bière
+était historiquement préparée sans houblon, on l'appelait alors la cervoise. Le
+houblon a été rajouté plus tard pour ses vertus conservatrices.
+
+Les levures sont responsables de la transformation des sucres en alcool (nous
+voilà à l'essentiel) mais également de l'effervescence (les bulles) de la bière.
+Les levures sont des micro-organismes qui se nourissent de sucre et le
+transforment d'une part en gaz carbonique (responsable des bulles) d'autre part
+en alcool (responsable de l'ivresse !)
+
+Tous les ingrédients y compris l'eau ont leur influence sur le goût final de la
+bière par leur qualité et leur caractéristique, région d'origine, etc.
+
+
+Principe général
+----------------
+
+Pour transformer de l'eau en bière, plusieurs techniques existent. Le procédé
+principal consiste à mélanger du malt à de l'eau. On obtient ainsi un mélange
+appelé la maische. La maische est portée à plusieurs palliers de températures :
+
+###### A VéRIFIER :
+~50°C : dissolution des sucres dans l'eau
+~65°C : alpha-amylase = transformation enzymatique de l'amidon en maltose surce
+        fermentescible
+~70°C : beta-amylase = transformation enzymatique de l'amidon en dextrose sucre
+        non fermentescible
+~78°C : destruction des enzymes arrêt des transfomrations
+
+Ensuite on sépare le manger du boire (le grain du jus si vous préférez) On
+obtient d'un côté les résidus de grain appelés les drèches et de l'autre côté
+le jus de céréales appelé le mout.
+
+Les drèches sont données aux poules et le moût est porté à ébullition en
+compagnie de houblon pour en extraire l'amertume et les arômes.
+
+Le houblon est ensuite retiré du moût qui est refroidit à 25°C, la température
+de prédilection pour les levures qui se font un plaisir de fermenter le moût
+pendant 2 à 3 semaines en fût d'abord, puis en bouteilles où le gaz généré
+n'aura d'autre solution que de se dissoudre dans la bière pour lui donner ses
+propriétés bulleuses.
+
 
 Matériel
 ========
+
+Pour faire de la bière, nul besoin d'alambique, ce n'est pas une boisson
+distillée mais simplement fermentée.
 
 Les grandes brasseries utilisent une cuve spéciale pour chaque étape, mais quand
 on est pauvres/débutants et que l'on fait des petites quantités, on peut très
@@ -36,8 +106,6 @@ bien s'en sortir avec très peu de matériel.
 Dans notre cas, nous faisons des brassins de 20L ce qui est un bon rapport
 risque/plaisir : si on rate, ce n'est pas si grave, et si elle est bonne il y a
 quand-même de quoi déguster ;)
-
-Pour cette recette, il vous faudra :
 
 L'essentiel :
 
@@ -93,17 +161,6 @@ Un densimètre
 Un tuyau pour siphonner
     Lors de la mise en bouteille. Prévoir un bon diamètre (environ 1cm) pour ne
     pas y passer des plombes.
-
-
-Ingrédients
-===========
-
-Une bière c'est :
-1. De l'eau
-2. Du malt
-3. Du houblon
-4. Des levures
-
 
 
 Processus de fabrication
@@ -212,6 +269,7 @@ tranquillement (les levures produisent du gaz qui est évacué, provoquant les
 dites "bulles") durant approximativement 15 jours, pour atteindre une densité
 stable.
 
+
 Mise en bouteille
 =================
 
@@ -240,6 +298,7 @@ savon.
 Cette dernière bière a un goût de… de bière ! Il nous reste encore à comprendre
 comment faire pour lui donner la saveur que l'on souhaite, mais c'est déjà un
 grand pas en avant. Prochaine étape... La bière de Noël !
+
 
 Dégustation !
 =============
