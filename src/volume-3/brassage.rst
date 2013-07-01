@@ -1,5 +1,5 @@
-Faire de la bière maison ou comment transformer l'eau en bière
-##############################################################
+Faire de la bière maison (ou comment transformer l'eau en bière)
+################################################################
 
 :date: 01-05-2013
 :category: cuisine
@@ -35,20 +35,23 @@ Pour cette recette, il vous faudra :
 4. Des levures
 
 Le malt est le nom que l'on donne communément à l'orge maltée. Le processus de
-maltage correspond à la germination de grains d'orge qui sont ensuite sechés ou
-torréfiés pour stopper la germination. Ils sont ensuite débarassés de leurs
-germes et peuvent servir directement pour le brassage de la bière. Ce processus
-de maltage permet d'une part de développer les enzymes nécessaires à la création
-des sucres qui seront ensuite digérés par les levures ; d'autre part, la
-torréfaction plus ou moins forte des grains d'orge va leur conférer une couleur
-et un arôme caractéristque qui permettra grâce à des mélanges, de créer une
-bière blonde, ambrée, brune, rousse, stout, etc. Le malt est donc l'ingrédient
-responsable de la couleur de la bière. C'est également la source de sucres et
-donc le facteur qui déterminera la quantité d'alcool et le corps de la bière.
+maltage correspond à la germination de grains d'orge qui sont ensuite séchés ou
+torréfiés pour stopper la germination. Ils sont ensuite débarrassés de leurs
+germes et peuvent servir directement pour le brassage de la bière. 
+
+    Ce processus de maltage permet d'une part de développer les enzymes
+nécessaires à la création des sucres qui seront ensuite digérés par les
+levures. 
+    D'autre part, la torréfaction plus ou moins forte des grains d'orge va leur
+conférer une couleur et un arôme caractéristique qui permettra grâce à des
+mélanges, de créer une bière blonde, ambrée, brune, rousse, stout, etc. Le malt
+est donc l'ingrédient responsable de la couleur de la bière. C'est également la
+source de sucres et donc le facteur qui déterminera la quantité d'alcool et le
+corps de la bière.
 
 Le houblon est une plante grimpante qui pousse dans nos régions tempérées. On
 utilise ses fleurs qui se présentent sous la forme de petits cônes pleins de
-résine et fortement odorant. Les fleurs (fraîches, séchées ou broyées en
+résine et fortement odorants. Les fleurs (fraîches, séchées ou broyées en
 granulés) sont ajoutées dans la bière pendant l'ébullition et sont responsables
 de l'amertume de la bière ainsi que des parfums floraux ou d'agrumes. La bière
 était historiquement préparée sans houblon, on l'appelait alors la cervoise. Le
@@ -56,7 +59,7 @@ houblon a été rajouté plus tard pour ses vertus conservatrices.
 
 Les levures sont responsables de la transformation des sucres en alcool (nous
 voilà à l'essentiel) mais également de l'effervescence (les bulles) de la bière.
-Les levures sont des micro-organismes qui se nourissent de sucre et le
+Les levures sont des micro-organismes qui se nourrissent de sucre et le
 transforment d'une part en gaz carbonique (responsable des bulles) d'autre part
 en alcool (responsable de l'ivresse !)
 
@@ -64,40 +67,8 @@ Tous les ingrédients y compris l'eau ont leur influence sur le goût final de l
 bière par leur qualité et leur caractéristique, région d'origine, etc.
 
 
-Principe général
-----------------
-
-Pour transformer de l'eau en bière, plusieurs techniques existent. Le procédé
-principal consiste à mélanger du malt à de l'eau. On obtient ainsi un mélange
-appelé la maische. La maische est portée à plusieurs palliers de températures :
-
-###### A VéRIFIER :
-~50°C : dissolution des sucres dans l'eau
-~65°C : alpha-amylase = transformation enzymatique de l'amidon en maltose surce
-        fermentescible
-~70°C : beta-amylase = transformation enzymatique de l'amidon en dextrose sucre
-        non fermentescible
-~78°C : destruction des enzymes arrêt des transfomrations
-
-Ensuite on sépare le manger du boire (le grain du jus si vous préférez) On
-obtient d'un côté les résidus de grain appelés les drèches et de l'autre côté
-le jus de céréales appelé le mout.
-
-Les drèches sont données aux poules et le moût est porté à ébullition en
-compagnie de houblon pour en extraire l'amertume et les arômes.
-
-Le houblon est ensuite retiré du moût qui est refroidit à 25°C, la température
-de prédilection pour les levures qui se font un plaisir de fermenter le moût
-pendant 2 à 3 semaines en fût d'abord, puis en bouteilles où le gaz généré
-n'aura d'autre solution que de se dissoudre dans la bière pour lui donner ses
-propriétés bulleuses.
-
-
 Matériel
 ========
-
-Pour faire de la bière, nul besoin d'alambique, ce n'est pas une boisson
-distillée mais simplement fermentée.
 
 Les grandes brasseries utilisent une cuve spéciale pour chaque étape, mais quand
 on est pauvres/débutants et que l'on fait des petites quantités, on peut très
@@ -105,7 +76,7 @@ bien s'en sortir avec très peu de matériel.
 
 Dans notre cas, nous faisons des brassins de 20L ce qui est un bon rapport
 risque/plaisir : si on rate, ce n'est pas si grave, et si elle est bonne il y a
-quand-même de quoi déguster ;)
+quand même de quoi déguster ;)
 
 L'essentiel :
 
@@ -114,10 +85,10 @@ Une source de chaleur réglable
     quelconque.
 
 Une cuve de brassage
-    Une grande casserolle/marmite de minimum 30L. 50L c'est plus confort.
+    Une grande casserole/marmite de minimum 30L. 50L c'est plus confort.
     En inox ou émaillée, mais surtout pas d'aluminium car il ne réagit pas très
-    bien avec la bière paraît-il...
-    Le mieux est de la récupérer chez tatie jacqueline car ça coûte très cher (à
+    bien avec la bière paraît il...
+    Le mieux est de la récupérer chez Tatie Jacqueline car ça coûte très cher (à
     partir de 50€ et 150€ facilement selon la qualité)
     
 Une cuve de fermentation
@@ -142,16 +113,16 @@ Un moulin à malt
     Du genre de ce qu'il y a dans les fermes pour concasser les céréales qu'on
     donne aux bêtes, ou un moulin à malt spécial (environ 50€ les premiers prix)
     Si vous n'en avez pas sous la main, il y a les techniques torchon/marteau
-    (long), rouleau à patisserie (fastidieux) ou encore le mixeur (de quoi être
+    (long), rouleau à pâtisserie (fastidieux) ou encore le mixeur (de quoi être
     radié à vie de l'ordre des brasseurs)
 
 Refroidisseur à moût
     On peut s'en bricoler un pour pas cher avec des tuyaux de cuivres pour
     canalisation. Il suffit de le tordre en forme de serpentin et de faire des
-    jolis raccords. Sans cet ustensile, l'étape de refroidissage est longue et
+    jolis raccords. Sans cet ustensile, l'étape de refroidissement est longue et
     risquée pour la qualité de la bière.
     
-Facultatif (mais quand-même sympa) :
+Facultatif (mais quand même sympa) :
 
 Un densimètre
     Pour faire des mesures et savoir au bout de combien de pintes on ne peut
@@ -176,16 +147,32 @@ présence de houblon.
 Machine arrière; n'allons pas trop vite: comment est-ce qu'on fait de la bière,
 d'abord ?
 
-En fin de compte, les quelques étapes nécessaire à la confection de la bière ne
-sont pas bien sorcières; concassage de l'orge maltée, cuisson (libération de
-l'amidon dans l'eau), infusion du houblon, refroidissement, première
-fermentation, embouteillage et seconde fermentation.
+Le procédé principal consiste à mélanger du malt à de l'eau. On obtient ainsi
+un mélange appelé la maische. Ce mélange est porté à plusieurs paliers de
+températures :
 
-L'idée principale est transformer l'amidon d'orge maltée en sucre, pour le
-"donner à manger" à des levures. Vous ajoutez un peu de houblon au milieu pour
-donner un petit goût amer et le tour est joué. Enfin presque.
+###### A VÉRIFIER :
+~50°C : dissolution des sucres dans l'eau
+~65°C : alpha-amylase = transformation enzymatique de l'amidon en maltose sucre
+        fermentescible
+~70°C : beta-amylase = transformation enzymatique de l'amidon en dextrose sucre
+        non fermentescible
+~78°C : destruction des enzymes et arrêt des transformations
 
-XXX Ajouter un schema ici qui montre le processus de fabrication.
+Ensuite on sépare le manger du boire (le grain du jus si vous préférez) On
+obtient d'un côté les résidus de grain appelés les drèches et de l'autre côté
+le jus de céréales appelé le mout.
+
+Les drèches sont données aux poules et le moût est porté à ébullition en
+compagnie de houblon pour en extraire l'amertume et les arômes.
+
+Le houblon est ensuite retiré du moût qui est refroidit à 25°C, la température
+de prédilection pour les levures qui se font un plaisir de fermenter le moût
+pendant 2 à 3 semaines. En fût d'abord, puis en bouteilles où le gaz généré
+n'aura d'autre solution que de se dissoudre dans la bière pour lui donner ses
+propriétés bulleuses.
+
+XXX Faire un petit dessin
 
 Concassage
 ----------
@@ -200,7 +187,7 @@ Attention, pas trop fin dis donc ! On ne veut pas de la poudre, on veut
 simplement permettre à l'amidon de se dissoudre dans l'eau. Si on concasse le
 malt trop fin, on se retrouve avec un dépôt dégeulasse au fond de toutes les
 bouteilles (c'est l'expérience qui parle, notre première bière avait plus goût
-de céréale que de bière…)
+de levure que de bière…)
 
 Contrairement aux fois précédentes où nous avions utilisé la technique du
 marteau et du torchon (oui, comme vous pouvez l'imaginer, c'est assez long et
